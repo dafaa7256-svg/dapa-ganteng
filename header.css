@@ -1,0 +1,35 @@
+/* Style the body */
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+    height: 300px; 
+    background-image: url(img/Danau-Toba-edited.webp);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;      
+    text-align: center;
+}
+
+/* Judul di header */
+.header h1 {
+    border: 5px solid #fff;
+    padding: 10px 25px;
+    display: inline-block;
+    width: auto;
+    font-size: 30px;
+}
+
+/* Page Content */
+.content {
+    padding: 20px 50px; 
+    width: 60%; 
+    text-align: left; 
+}
