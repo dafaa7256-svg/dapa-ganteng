@@ -1,0 +1,19 @@
+/* Rata kiri */
+.left {
+    text-align: left;
+}
+
+/* Rata kanan */
+.right {
+    text-align: right;
+}
+
+/* Rata tengah */
+.center {
+    text-align: center;
+}
+
+/* Rata penuh (justify) */
+.justify {
+    text-align: justify;
+}
